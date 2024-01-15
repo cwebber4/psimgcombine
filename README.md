@@ -1,4 +1,4 @@
-# psimgcombine
+## psimgcombine.pl
 
 ### Usage
 <pre>
